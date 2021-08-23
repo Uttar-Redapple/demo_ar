@@ -1,11 +1,11 @@
 Model Information:
-* title:	kong-2021-animated-run
-* source:	https://sketchfab.com/3d-models/kong-2021-animated-run-a75d91ceeba4440981d488cf1e670773
-* author:	bensimulator2 (https://sketchfab.com/bensimulator1)
+* title:	T- Rex
+* source:	https://sketchfab.com/3d-models/t-rex-c9fb481720794317ae3e364d53acf69e
+* author:	titocarmelouruguay (https://sketchfab.com/titocarmelouruguay)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "kong-2021-animated-run" (https://sketchfab.com/3d-models/kong-2021-animated-run-a75d91ceeba4440981d488cf1e670773) by bensimulator2 (https://sketchfab.com/bensimulator1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "T- Rex" (https://sketchfab.com/3d-models/t-rex-c9fb481720794317ae3e364d53acf69e) by titocarmelouruguay (https://sketchfab.com/titocarmelouruguay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
